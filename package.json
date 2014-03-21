@@ -20,7 +20,7 @@
   },
   "bin": {
     "oobootcamp": "./index.js"
-  }
+  },
   "homepage": "https://github.com/winsonwq/OOBootcamp.js",
   "dependencies": {
     "workshopper": "^1.0.0-alpha05",
