@@ -1,1 +1,1 @@
-console.log('not implemented yet!');
+console.log('https://github.com/winsonwq/guess_game');
