@@ -1,6 +1,6 @@
 {
   "name": "oobootcamp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "JavaScript Object-Oriented Programming Bootcamp !",
   "main": "index.js",
   "scripts": {
